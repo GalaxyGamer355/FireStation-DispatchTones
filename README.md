@@ -6,7 +6,5 @@ Hey :)
 
 There is currently only the first and also Original version of this.
 <br> The 2cn version(V2) is under developement, so stay tuned ^^.
-<br>
-<br>
 
 -----CC BY-ND (Attribution-NoDerivs) License-----
